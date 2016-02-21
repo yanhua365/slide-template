@@ -1,0 +1,11 @@
+== reveal.js和Asciidoctor的幻灯片模板
+
+详情请见 https://github.com/asciidoctor/asciidoctor-reveal.js[reveal.js backend] ，这个项目只是一个快速的模板。演示请看：
+
+ https://github.com/yanhua365/slide-template.git[这里] 。
+
+== 使用方法
+
+  $ git clone https://github.com/yanhua365/slide-template.git
+
+TIP: 相关软件的安装请参考 http://yanhua365.com/blog/2015/asciidoctor-and-reveal-js/#asciidoctor-revealjs[这篇文章] 。
